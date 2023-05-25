@@ -1,9 +1,7 @@
-package src;
+package JavaPracticeTasksWeek1;
 
-public class Greetings {
-
+public class Task1 {
     public static void main(String[] args) {
-
         System.out.println("Hello");
     }
 }
