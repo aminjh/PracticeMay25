@@ -7,5 +7,7 @@ public class Test2 {
         System.out.println("second ");
 
         System.out.println("heloooo");
+
+        System.out.println("third time");
     }
 }
